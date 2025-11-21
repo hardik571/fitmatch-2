@@ -1,0 +1,8 @@
+{
+  "name": "FitMatch AI",
+  "description": "A comprehensive AI stylist that offers outfit matching, face/body analysis, skincare routines, and event-based recommendations using Google Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
